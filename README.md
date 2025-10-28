@@ -84,7 +84,7 @@ A SwiftUI iOS app for discovering local events. Users can browse events fetched 
    * Returns to Events List Screen (after applying filters)
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+<img src="https://imgur.com/a/ueKgRKU" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
